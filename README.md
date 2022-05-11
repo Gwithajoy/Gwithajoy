@@ -10,7 +10,7 @@ Hello, I'm Gle Bang:)😄
 
 
 Skills 
-<img src="https://img.shields.io/badge/Instagram-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-3DDC84?style=flat-square&logo=Instagram&logoColor=pink"/>
 
 
 
