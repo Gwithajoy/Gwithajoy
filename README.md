@@ -11,8 +11,4 @@ Hello, I'm Gle Bang:)😄
 
 
 
-
-
-⭐️ What I acheived ⭐️
-" "
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwithjoy&show_icons=true&theme=radical)
