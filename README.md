@@ -6,6 +6,9 @@ Hello, I'm Gle Bang:)😄.
 🤩 Hope you to enjoy!!
   
   
+     
+    
+      
 ⭐️SNS⭐️   
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
@@ -13,6 +16,10 @@ Hello, I'm Gle Bang:)😄.
    
    
    
+     
+      
+      
 ⭐️What I achieved⭐️.  
+    
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwithjoy&show_icons=true&theme=radical)
