@@ -7,7 +7,7 @@ Hello, I'm Gle Bang:)😄.
    
 🤩 Hope you to enjoy!! 
 <br/><br/><br/>
- ⭐ SNS  
+⭐ SNS  
 <br/>
 <a href="https://www.instagram.com/glee_withjoy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://tundra-blackbird-697.notion.site/c21f5e232be347f5a5f4356aef77dfd0?v=e21f749439934efb84f2043326c8890e/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
