@@ -13,8 +13,7 @@ Hello, I'm Gle Bang:)😄.
 <a href="https://tundra-blackbird-697.notion.site/c21f5e232be347f5a5f4356aef77dfd0?v=e21f749439934efb84f2043326c8890e/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gmail:bangbabo131@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>   
 <br/><br/><br/>
- 
-⭐️ Skills 
+⭐️ Skills
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
