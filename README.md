@@ -25,3 +25,5 @@ Hello, I'm Gle Bang:)😄.
 ⭐️What I achieved⭐️
  <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwithjoy&show_icons=true&theme=radical)
+<br/>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGwithjoy&count_bg=%23CE5FFC&title_bg=%2393D2FF&icon=&icon_color=%23FFBFD8&title=hits&edge_flat=false"/></a>
