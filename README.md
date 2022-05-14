@@ -9,10 +9,10 @@ Hello, I'm Gle Bang:)😄.
 <br/><br/><br/>
  ⭐ SNS  
 <br/>
-<a href="https://www.instagram.com/glee_withjoy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
-<a href="https://tundra-blackbird-697.notion.site/c21f5e232be347f5a5f4356aef77dfd0?v=e21f749439934efb84f2043326c8890e/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<a href="https://www.instagram.com/glee_withjoy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://tundra-blackbird-697.notion.site/c21f5e232be347f5a5f4356aef77dfd0?v=e21f749439934efb84f2043326c8890e/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Gmail:bangbabo131@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>   
-<br/><br/><br/>
+<br/><br/><br/></a>
 ⭐️ Skills
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
