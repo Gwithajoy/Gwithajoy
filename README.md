@@ -1,9 +1,11 @@
-
 Hello, I'm Gle Bang:)😄.  
      
 💪I'm enthusiastic and cheerful person who is passionated in coding, so I made this as my record space.<br/>
 😘 Thanks for visiting here.:-)<br/>
 🤩 Hope you to enjoy!<br/>
+<br/><br/>
+⭐ Today's
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGwithjoy&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br/><br/>
 ⭐ MyPage 
 <br/>
@@ -26,4 +28,3 @@ Hello, I'm Gle Bang:)😄.
  <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwithjoy&show_icons=true&theme=radical)
 <br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGwithjoy&count_bg=%23CE5FFC&title_bg=%2393D2FF&icon=&icon_color=%23FFBFD8&title=hits&edge_flat=false"/></a>
