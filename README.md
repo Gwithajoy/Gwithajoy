@@ -25,6 +25,8 @@ Hello, I'm Gle Bang:)😄.
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Markdown&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Markdown&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Markdown&logoColor=white"/> 
 <br/><br/>
    
 ⭐️What I achieved⭐️
