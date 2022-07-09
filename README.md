@@ -28,7 +28,7 @@ Hello, I'm Gle Bang:)😄.
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Python&logoColor=white"/>
 <br/><br/>
-⭐️ Now I'm studying these skills...<br/><br/>
+⭐️ Now I'm studying these skills...<br>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Markdown&logoColor=white"/> 
