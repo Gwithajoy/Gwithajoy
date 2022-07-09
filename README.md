@@ -25,10 +25,15 @@ Hello, I'm Gle Bang:)😄.
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Markdown&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Markdown&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Python&logoColor=white"/>
 <br/><br/>
-   
+⭐️ Now I'm studying these skills...
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Markdown&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Markdown&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Markdown&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Markdown&logoColor=white"/> 
+<br/><br/>
 ⭐️What I achieved⭐️
  <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwithjoy&show_icons=true&theme=radical)
