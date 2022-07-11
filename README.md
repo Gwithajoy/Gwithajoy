@@ -1,9 +1,9 @@
 ![reversal](https://capsule-render.vercel.app/api?type=Waving&color=FFCAF8&&height=320&section=header&text=Gle_Bang&fontColor=d6ace6&frontSize=90)
-<div align="changes">
+<center>
 Hello, I'm Gle Bang.<br/>
 I'm enthusiastic and cheerful person who is passionated in coding, so I made this as my record space.<br/>
 Thanks for visiting here.<br/>
-Hope you to enjoy!</div><br/>
+Hope you to enjoy!</center><br/>
 <br/><br/>
 ⭐ Today's
 <br/>
