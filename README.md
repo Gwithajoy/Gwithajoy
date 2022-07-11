@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=Waving&color=FFCAF8&&height=320&section=header&text=Glee_with_a_joy&fontColor=d6ace6&frontSize=90)
+![reversal](https://capsule-render.vercel.app/api?type=Waving&color=FFCAF8&&height=320&section=header&text=Glee with a joy&fontColor=d6ace6&frontSize=90)
 Hello, I'm Gle Bang.</center><br/>
 I'm enthusiastic and cheerful person who is passionated in coding, so I made this as my record space.<br/>
 Thanks for visiting here.<br/>
