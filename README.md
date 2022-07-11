@@ -1,5 +1,5 @@
 ![reversal](https://capsule-render.vercel.app/api?type=Waving&color=FFCAF8&&height=320&section=header&text=Gle_Bang&fontColor=d6ace6&frontSize=90)
-<div align="center">
+
 Hello, I'm Gle Bang:)😄.<br/>
 💪I'm enthusiastic and cheerful person who is passionated in coding, so I made this as my record space.<br/>
 😘 Thanks for visiting here.:-)<br/>
@@ -35,7 +35,7 @@ Hello, I'm Gle Bang:)😄.<br/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Markdown&logoColor=white"/> 
 <br/><br/>
-</div>
+
 ⭐️What I achieved⭐️
  <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwithjoy&show_icons=true&theme=radical)
