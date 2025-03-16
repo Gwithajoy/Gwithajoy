@@ -59,13 +59,15 @@ Thank you for visiting! 😊 ✨
 
 #### 💻 백엔드 & 프로그래밍 언어  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=white" alt="Java Badge"/>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin Badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python Badge"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Badge"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django Badge"/>
 
 #### 🗄 데이터베이스 & 데이터 엔지니어링  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB Badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" alt="Pandas Badge"/>
 <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white" alt="Apache Spark Badge"/>
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white" alt="Apache Airflow Badge"/>
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white" alt="Apache Kafka Badge"/>
@@ -76,7 +78,6 @@ Thank you for visiting! 😊 ✨
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" alt="Selenium Badge"/>
 
 </div>
-
 <br/> 
 
 ---
