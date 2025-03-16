@@ -32,6 +32,8 @@ I started my journey as a **Data Engineer**, building **data pipelines and proce
 However, my growing interest in **developing core business logic and backend services** led me to transition into a **Backend Developer**.  
 Currently, I am focusing on **Java, Spring, and Kotlin** to strengthen my backend development skills.  
 With my background in **data engineering**, I am particularly interested in **efficient data processing and optimized API design**.  
+<br/> 
+<br/> 
 
 ✨ **I continuously learn and document my progress as a Backend Developer.**  
 Thank you for visiting! 😊 ✨  
