@@ -17,6 +17,7 @@ Hope you to enjoy!<br/>
 <br/><br/>
 ⭐️ Skills
 <br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=white" alt="Java Badge"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -27,9 +28,6 @@ Hope you to enjoy!<br/>
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Markdown&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Python&logoColor=white"/>
-<br/><br/>
-⭐️ Now I'm studying these skills...<br>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Markdown&logoColor=white"/> 
 <br/><br/>
 
 ⭐️What I achieved⭐️
