@@ -10,7 +10,7 @@
 데이터 엔지니어로서 **데이터 파이프라인 구축과 처리 시스템을 설계하며 대량 데이터를 다루는 경험**을 쌓아왔습니다.  
 그러나 비즈니스 로직을 직접 구현하고, 서비스의 핵심을 개발하는 것에 대한 관심이 커지면서 **백엔드 개발자로 전향**하였습니다.  
 
-현재는 **Java, Spring, Kotlin**을 중심으로 백엔드 개발 역량을 키워가고 있으며,  
+현재는 **Java, Spring, Python**을 중심으로 백엔드 개발 역량을 키워가고 있으며,  
 데이터 엔지니어 경험을 살려 **효율적인 데이터 처리 및 최적화된 API 설계**에 집중하고 있습니다.  
 <br/> 
 <br/> 
@@ -30,7 +30,7 @@
 I am a developer who enjoys creating value through code.  
 I started my journey as a **Data Engineer**, building **data pipelines and processing systems** to handle large-scale data.  
 However, my growing interest in **developing core business logic and backend services** led me to transition into a **Backend Developer**.  
-Currently, I am focusing on **Java, Spring, and Kotlin** to strengthen my backend development skills.  
+Currently, I am focusing on **Java, Spring, and Python** to strengthen my backend development skills.  
 With my background in **data engineering**, I am particularly interested in **efficient data processing and optimized API design**.  
 <br/> 
 <br/> 
