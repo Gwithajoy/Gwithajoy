@@ -60,14 +60,12 @@ Thank you for visiting! 😊 ✨
 ### 🛠 기술 스택  
 
 <div align="center">
-
-#### 💻 백엔드 & 프로그래밍 언어  
+  
+#### 💻 프로그래밍 언어 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=white" alt="Java Badge"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python Badge"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Badge"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django Badge"/>
 
-#### 🗄 데이터베이스 & 데이터 엔지니어링  
+#### 🗄 데이터 엔지니어링 & 데이터베이스
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB Badge"/>
@@ -80,6 +78,8 @@ Thank you for visiting! 😊 ✨
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker Badge"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git Badge"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" alt="Selenium Badge"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Badge"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django Badge"/>
 
 </div>
 <br/> 
