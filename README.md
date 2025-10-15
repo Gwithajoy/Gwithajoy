@@ -6,15 +6,18 @@
 
 ## 👋 안녕하세요, 저는 Gle Bang입니다.
 
-코드를 통해 가치를 창출하는 것을 즐기는 개발자입니다.  
-데이터 엔지니어로서 **데이터 파이프라인 구축과 처리 시스템을 설계하며 대량 데이터를 다루는 경험**을 쌓아왔습니다.  
-그러나 비즈니스 로직을 직접 구현하고, 서비스의 핵심을 개발하는 것에 대한 관심이 커지면서 **백엔드 개발자로 전향**하였습니다.  
+데이터를 통해 가치를 창출하는 것을 즐기는 **데이터 엔지니어**입니다.
+다양한 플랫폼에서 수집되는 데이터를 정제·적재·분석 가능한 형태로 전환하는 파이프라인을 구축하며,
+Kafka, Airflow, Spark, AWS 기반의 실시간·배치 데이터 처리 시스템을 설계해 왔습니다.
 
-현재는 **Java, Spring, Python**을 중심으로 백엔드 개발 역량을 키워가고 있으며,  
-데이터 엔지니어 경험을 살려 **효율적인 데이터 처리 및 최적화된 API 설계**에 집중하고 있습니다.  
+데이터 엔지니어로서 가장 큰 보람은,
+복잡한 데이터 흐름을 구조화하여 비즈니스 의사결정과 서비스 개선에 실질적인 인사이트를 제공하는 것이라고 생각합니다.
+
+현재는 Python, Java, SQL, Kafka, Airflow를 중심으로
+확장성 있는 데이터 파이프라인과 자동화된 워크플로우 설계에 집중하고 있습니다.
 <br/> 
 <br/> 
-✨ **백엔드 개발자로 성장하기 위해 꾸준히 학습하고 기록합니다.**  
+✨ **정확하고 견고한 데이터 인프라를 구축하기 위해 지속적으로 학습하고 기록합니다.**
 방문해 주셔서 감사합니다! 😊  ✨
 
 </div>
@@ -27,16 +30,17 @@
 
 ## 👋 Hello, I'm Gle Bang.
 
-I am a developer who enjoys creating value through code.  
-I started my journey as a **Data Engineer**, building **data pipelines and processing systems** to handle large-scale data.  
-However, my growing interest in **developing core business logic and backend services** led me to transition into a **Backend Developer**.  
-Currently, I am focusing on **Java, Spring, and Python** to strengthen my backend development skills.  
-With my background in **data engineering**, I am particularly interested in **efficient data processing and optimized API design**.  
-<br/> 
-<br/> 
+I'm a Data Engineer who enjoys creating value through data.
+I design and build data pipelines that collect, clean, and transform data from various platforms into actionable insights.
+My experience includes developing real-time and batch data processing systems using Kafka, Airflow, Spark, and AWS.
 
-✨ **I continuously learn and document my progress as a Backend Developer.**  
-Thank you for visiting! 😊 ✨  
+As a data engineer, I find the greatest fulfillment in structuring complex data flows to deliver meaningful insights for business decisions and service improvements.
+
+Currently, I focus on designing scalable data pipelines and automated workflows using Python, Java, SQL, Kafka, and Airflow.
+<br/>
+<br/>
+✨ I continuously learn and document my journey to build reliable and resilient data infrastructure.
+Thank you for visiting! 😊 ✨
 
 </div>
 <br/> 
