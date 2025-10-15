@@ -7,11 +7,10 @@
 ## 👋 안녕하세요, 저는 Gle Bang입니다.
 
 데이터를 통해 가치를 창출하는 것을 즐기는 **데이터 엔지니어**입니다.
-다양한 플랫폼에서 수집되는 데이터를 정제·적재·분석 가능한 형태로 전환하는 파이프라인을 구축하며,
-Kafka, Airflow, Spark, AWS 기반의 실시간·배치 데이터 처리 시스템을 설계해 왔습니다.
 
-데이터 엔지니어로서 가장 큰 보람은,
-복잡한 데이터 흐름을 구조화하여 비즈니스 의사결정과 서비스 개선에 실질적인 인사이트를 제공하는 것이라고 생각합니다.
+다양한 플랫폼에서 수집되는 데이터를 정제·적재·분석 가능한 형태로 전환하는 파이프라인을 구축하며, Kafka, Airflow, Spark, AWS 기반의 실시간·배치 데이터 처리 시스템을 설계해 왔습니다.
+
+데이터 엔지니어로서 가장 큰 보람은, 복잡한 데이터 흐름을 구조화하여 비즈니스 의사결정과 서비스 개선에 실질적인 인사이트를 제공하는 것이라고 생각합니다.
 
 현재는 Python, Java, SQL, Kafka, Airflow를 중심으로
 확장성 있는 데이터 파이프라인과 자동화된 워크플로우 설계에 집중하고 있습니다.
@@ -31,6 +30,7 @@ Kafka, Airflow, Spark, AWS 기반의 실시간·배치 데이터 처리 시스�
 ## 👋 Hello, I'm Gle Bang.
 
 I'm a Data Engineer who enjoys creating value through data.
+
 I design and build data pipelines that collect, clean, and transform data from various platforms into actionable insights.
 My experience includes developing real-time and batch data processing systems using Kafka, Airflow, Spark, and AWS.
 
